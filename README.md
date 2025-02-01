@@ -1,7 +1,7 @@
 # CertDecoder
 Decode CSR / Certificates using Openssl cmds
 
-![Alt text][def]
+![Alt text](../../Desktop/Screenshots/UI.png "UI look")
 
 ## Description: 
 
@@ -11,5 +11,3 @@ Decode CSR / Certificates using Openssl cmds
 ## Prereq:
 - Python 3.11 or above
 - pip3 install fastapi,pyOpenSSL,python-multipsrt,uvicorn 
-
-[def]: /Users/pb/Desktop/Screenshots/UI.png "UI look"
