@@ -1,9 +1,7 @@
 # CertDecoder
 Decode CSR / Certificates using Openssl cmds
 
-
-![Alt text](/Users/pb/Desktop/Screenshots/UI.png?raw=true "UI look")
-
+![Alt text](/Users/pb/Desktop/Screenshots/UI.png "UI look")
 
 ## Description: 
 
