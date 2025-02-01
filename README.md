@@ -5,8 +5,10 @@ Decode CSR / Certificates using Openssl cmds
 
 ## Description: 
 
-- Step up to openssl commsnd to decode the certificate.
-- Instead of using commerical sites use locally ran script to decode CSR's or Certificates with UI .
+- Step up from running openssl cmds thru cli .
+- Instead of using commerical sites use locally ran scripts to decode CSR's or Certificates with sleek UI.
+- Store the output in the same folder for future reference. 
+- MD5 hash of certificate.
 
 ## Prereq:
 - Python 3.11 or above
