@@ -1,7 +1,7 @@
 # CertDecoder
 Decode CSR / Certificates using Openssl cmds
 
-![Alt text](../../Desktop/Screenshots/UI.png "UI look")
+![Alt text](./ui.png "UI look")
 
 ## Description: 
 
