@@ -1,0 +1,11 @@
+pages:
+  stage: deploy
+  script:
+    - mkdir .public
+    - cp -r index.html ui.png .public/
+    - mv .public public
+  artifacts:
+    paths:
+      - public
+  only:
+    - gitlab-pages
